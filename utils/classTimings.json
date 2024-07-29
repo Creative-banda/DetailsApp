@@ -1,0 +1,393 @@
+{
+    "A1": {
+      "SchoolA1": {
+        "Grade1": {
+          "SectionA": {
+            "Math": "9:00 AM - 10:00 AM",
+            "Science": "10:00 AM - 11:00 AM",
+            "English": "11:00 AM - 12:00 PM"
+          },
+          "SectionB": {
+            "Math": "1:00 PM - 2:00 PM",
+            "Science": "2:00 PM - 3:00 PM",
+            "English": "3:00 PM - 4:00 PM"
+          }
+        },
+        "Grade2": {
+          "SectionA": {
+            "Math": "9:00 AM - 10:00 AM",
+            "Science": "10:00 AM - 11:00 AM",
+            "English": "11:00 AM - 12:00 PM"
+          },
+          "SectionB": {
+            "Math": "1:00 PM - 2:00 PM",
+            "Science": "2:00 PM - 3:00 PM",
+            "English": "3:00 PM - 4:00 PM"
+          }
+        }
+      },
+      "SchoolA2": {
+        "Grade1": {
+          "SectionA": {
+            "Math": "9:00 AM - 10:00 AM",
+            "Science": "10:00 AM - 11:00 AM",
+            "English": "11:00 AM - 12:00 PM"
+          },
+          "SectionB": {
+            "Math": "1:00 PM - 2:00 PM",
+            "Science": "2:00 PM - 3:00 PM",
+            "English": "3:00 PM - 4:00 PM"
+          }
+        },
+        "Grade2": {
+          "SectionA": {
+            "Math": "9:00 AM - 10:00 AM",
+            "Science": "10:00 AM - 11:00 AM",
+            "English": "11:00 AM - 12:00 PM"
+          },
+          "SectionB": {
+            "Math": "1:00 PM - 2:00 PM",
+            "Science": "2:00 PM - 3:00 PM",
+            "English": "3:00 PM - 4:00 PM"
+          }
+        }
+      }
+    },
+    "A2": {
+      "SchoolA3": {
+        "Grade1": {
+          "SectionA": {
+            "Math": "8:00 AM - 9:00 AM",
+            "Science": "9:00 AM - 10:00 AM",
+            "English": "10:00 AM - 11:00 AM"
+          },
+          "SectionB": {
+            "Math": "12:00 PM - 1:00 PM",
+            "Science": "1:00 PM - 2:00 PM",
+            "English": "2:00 PM - 3:00 PM"
+          }
+        },
+        "Grade2": {
+          "SectionA": {
+            "Math": "8:00 AM - 9:00 AM",
+            "Science": "9:00 AM - 10:00 AM",
+            "English": "10:00 AM - 11:00 AM"
+          },
+          "SectionB": {
+            "Math": "12:00 PM - 1:00 PM",
+            "Science": "1:00 PM - 2:00 PM",
+            "English": "2:00 PM - 3:00 PM"
+          }
+        }
+      },
+      "SchoolA4": {
+        "Grade1": {
+          "SectionA": {
+            "Math": "8:00 AM - 9:00 AM",
+            "Science": "9:00 AM - 10:00 AM",
+            "English": "10:00 AM - 11:00 AM"
+          },
+          "SectionB": {
+            "Math": "12:00 PM - 1:00 PM",
+            "Science": "1:00 PM - 2:00 PM",
+            "English": "2:00 PM - 3:00 PM"
+          }
+        },
+        "Grade2": {
+          "SectionA": {
+            "Math": "8:00 AM - 9:00 AM",
+            "Science": "9:00 AM - 10:00 AM",
+            "English": "10:00 AM - 11:00 AM"
+          },
+          "SectionB": {
+            "Math": "12:00 PM - 1:00 PM",
+            "Science": "1:00 PM - 2:00 PM",
+            "English": "2:00 PM - 3:00 PM"
+          }
+        }
+      }
+    },
+    "2": {
+      "SchoolB1": {
+        "Grade3": {
+          "SectionA": {
+            "Math": "7:00 AM - 8:00 AM",
+            "Science": "8:00 AM - 9:00 AM",
+            "English": "9:00 AM - 10:00 AM"
+          },
+          "SectionB": {
+            "Math": "10:00 AM - 11:00 AM",
+            "Science": "11:00 AM - 12:00 PM",
+            "English": "12:00 PM - 1:00 PM"
+          }
+        },
+        "Grade4": {
+          "SectionA": {
+            "Math": "7:00 AM - 8:00 AM",
+            "Science": "8:00 AM - 9:00 AM",
+            "English": "9:00 AM - 10:00 AM"
+          },
+          "SectionB": {
+            "Math": "10:00 AM - 11:00 AM",
+            "Science": "11:00 AM - 12:00 PM",
+            "English": "12:00 PM - 1:00 PM"
+          }
+        }
+      },
+      "SchoolB2": {
+        "Grade3": {
+          "SectionA": {
+            "Math": "7:00 AM - 8:00 AM",
+            "Science": "8:00 AM - 9:00 AM",
+            "English": "9:00 AM - 10:00 AM"
+          },
+          "SectionB": {
+            "Math": "10:00 AM - 11:00 AM",
+            "Science": "11:00 AM - 12:00 PM",
+            "English": "12:00 PM - 1:00 PM"
+          }
+        },
+        "Grade4": {
+          "SectionA": {
+            "Math": "7:00 AM - 8:00 AM",
+            "Science": "8:00 AM - 9:00 AM",
+            "English": "9:00 AM - 10:00 AM"
+          },
+          "SectionB": {
+            "Math": "10:00 AM - 11:00 AM",
+            "Science": "11:00 AM - 12:00 PM",
+            "English": "12:00 PM - 1:00 PM"
+          }
+        }
+      }
+    },
+    "3": {
+      "SchoolC1": {
+        "Grade5": {
+          "SectionA": {
+            "Math": "6:00 AM - 7:00 AM",
+            "Science": "7:00 AM - 8:00 AM",
+            "English": "8:00 AM - 9:00 AM"
+          },
+          "SectionB": {
+            "Math": "9:00 AM - 10:00 AM",
+            "Science": "10:00 AM - 11:00 AM",
+            "English": "11:00 AM - 12:00 PM"
+          }
+        },
+        "Grade6": {
+          "SectionA": {
+            "Math": "6:00 AM - 7:00 AM",
+            "Science": "7:00 AM - 8:00 AM",
+            "English": "8:00 AM - 9:00 AM"
+          },
+          "SectionB": {
+            "Math": "9:00 AM - 10:00 AM",
+            "Science": "10:00 AM - 11:00 AM",
+            "English": "11:00 AM - 12:00 PM"
+          }
+        }
+      }
+    },
+    "4": {
+      "SchoolD1": {
+        "Grade7": {
+          "SectionA": {
+            "Math": "8:00 AM - 9:00 AM",
+            "Science": "9:00 AM - 10:00 AM",
+            "English": "10:00 AM - 11:00 AM"
+          },
+          "SectionB": {
+            "Math": "11:00 AM - 12:00 PM",
+            "Science": "12:00 PM - 1:00 PM",
+            "English": "1:00 PM - 2:00 PM"
+          }
+        },
+        "Grade8": {
+          "SectionA": {
+            "Math": "8:00 AM - 9:00 AM",
+            "Science": "9:00 AM - 10:00 AM",
+            "English": "10:00 AM - 11:00 AM"
+          },
+          "SectionB": {
+            "Math": "11:00 AM - 12:00 PM",
+            "Science": "12:00 PM - 1:00 PM",
+            "English": "1:00 PM - 2:00 PM"
+          }
+        }
+      },
+      "SchoolD2": {
+        "Grade7": {
+          "SectionA": {
+            "Math": "8:00 AM - 9:00 AM",
+            "Science": "9:00 AM - 10:00 AM",
+            "English": "10:00 AM - 11:00 AM"
+          },
+          "SectionB": {
+            "Math": "11:00 AM - 12:00 PM",
+            "Science": "12:00 PM - 1:00 PM",
+            "English": "1:00 PM - 2:00 PM"
+          }
+        },
+        "Grade8": {
+          "SectionA": {
+            "Math": "8:00 AM - 9:00 AM",
+            "Science": "9:00 AM - 10:00 AM",
+            "English": "10:00 AM - 11:00 AM"
+          },
+          "SectionB": {
+            "Math": "11:00 AM - 12:00 PM",
+            "Science": "12:00 PM - 1:00 PM",
+            "English": "1:00 PM - 2:00 PM"
+          }
+        }
+      }
+    },
+    "5": {
+      "SchoolE1": {
+        "Grade9": {
+          "SectionA": {
+            "Math": "7:00 AM - 8:00 AM",
+            "Science": "8:00 AM - 9:00 AM",
+            "English": "9:00 AM - 10:00 AM"
+          },
+          "SectionB": {
+            "Math": "10:00 AM - 11:00 AM",
+            "Science": "11:00 AM - 12:00 PM",
+            "English": "12:00 PM - 1:00 PM"
+          }
+        },
+        "Grade10": {
+          "SectionA": {
+            "Math": "7:00 AM - 8:00 AM",
+            "Science": "8:00 AM - 9:00 AM",
+            "English": "9:00 AM - 10:00 AM"
+          },
+          "SectionB": {
+            "Math": "10:00 AM - 11:00 AM",
+            "Science": "11:00 AM - 12:00 PM",
+            "English": "12:00 PM - 1:00 PM"
+          }
+        }
+      }
+    },
+    "6": {
+      "SchoolF1": {
+        "Grade11": {
+          "SectionA": {
+            "Math": "6:00 AM - 7:00 AM",
+            "Science": "7:00 AM - 8:00 AM",
+            "English": "8:00 AM - 9:00 AM"
+          },
+          "SectionB": {
+            "Math": "9:00 AM - 10:00 AM",
+            "Science": "10:00 AM - 11:00 AM",
+            "English": "11:00 AM - 12:00 PM"
+          }
+        },
+        "Grade12": {
+          "SectionA": {
+            "Math": "6:00 AM - 7:00 AM",
+            "Science": "7:00 AM - 8:00 AM",
+            "English": "8:00 AM - 9:00 AM"
+          },
+          "SectionB": {
+            "Math": "9:00 AM - 10:00 AM",
+            "Science": "10:00 AM - 11:00 AM",
+            "English": "11:00 AM - 12:00 PM"
+          }
+        }
+      }
+    },
+    "7": {
+      "SchoolG1": {
+        "Grade1": {
+          "SectionA": {
+            "Math": "8:00 AM - 9:00 AM",
+            "Science": "9:00 AM - 10:00 AM",
+            "English": "10:00 AM - 11:00 AM"
+          },
+          "SectionB": {
+            "Math": "11:00 AM - 12:00 PM",
+            "Science": "12:00 PM - 1:00 PM",
+            "English": "1:00 PM - 2:00 PM"
+          }
+        }
+      },
+      "SchoolG2": {
+        "Grade1": {
+          "SectionA": {
+            "Math": "8:00 AM - 9:00 AM",
+            "Science": "9:00 AM - 10:00 AM",
+            "English": "10:00 AM - 11:00 AM"
+          },
+          "SectionB": {
+            "Math": "11:00 AM - 12:00 PM",
+            "Science": "12:00 PM - 1:00 PM",
+            "English": "1:00 PM - 2:00 PM"
+          }
+        }
+      }
+    },
+    "8": {
+      "SchoolH1": {
+        "Grade2": {
+          "SectionA": {
+            "Math": "7:00 AM - 8:00 AM",
+            "Science": "8:00 AM - 9:00 AM",
+            "English": "9:00 AM - 10:00 AM"
+          },
+          "SectionB": {
+            "Math": "10:00 AM - 11:00 AM",
+            "Science": "11:00 AM - 12:00 PM",
+            "English": "12:00 PM - 1:00 PM"
+          }
+        }
+      },
+      "SchoolH2": {
+        "Grade2": {
+          "SectionA": {
+            "Math": "7:00 AM - 8:00 AM",
+            "Science": "8:00 AM - 9:00 AM",
+            "English": "9:00 AM - 10:00 AM"
+          },
+          "SectionB": {
+            "Math": "10:00 AM - 11:00 AM",
+            "Science": "11:00 AM - 12:00 PM",
+            "English": "12:00 PM - 1:00 PM"
+          }
+        }
+      }
+    },
+    "9": {
+      "SchoolI1": {
+        "Grade3": {
+          "SectionA": {
+            "Math": "6:00 AM - 7:00 AM",
+            "Science": "7:00 AM - 8:00 AM",
+            "English": "8:00 AM - 9:00 AM"
+          },
+          "SectionB": {
+            "Math": "9:00 AM - 10:00 AM",
+            "Science": "10:00 AM - 11:00 AM",
+            "English": "11:00 AM - 12:00 PM"
+          }
+        }
+      },
+      "SchoolI2": {
+        "Grade3": {
+          "SectionA": {
+            "Math": "6:00 AM - 7:00 AM",
+            "Science": "7:00 AM - 8:00 AM",
+            "English": "8:00 AM - 9:00 AM"
+          },
+          "SectionB": {
+            "Math": "9:00 AM - 10:00 AM",
+            "Science": "10:00 AM - 11:00 AM",
+            "English": "11:00 AM - 12:00 PM"
+          }
+        }
+      }
+    }
+  }
+  

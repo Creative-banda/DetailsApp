@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "OIS Dictionary",
+    "slug": "drop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ic_launcher.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/SplashScreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "y",
+      "infoPlist": {
+        "CFBundleDisplayName": "OIS Dictionary"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ic_launcher.png",
+        "backgroundColor": "#363636"
+      },
+      "package": "com.ahtesham_khan.details"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f6dfe0a1-a2d5-4279-915e-28c5fddc3971"
+      }
+    },
+    "owner": "ahtesham_khan",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}

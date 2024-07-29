@@ -1,0 +1,107 @@
+{
+  "Zone 1A ": [
+    "OIS Magadi Road",
+    "OIS CV Raman Nagar",
+    "OIS Mahalakshmi Layout",
+    "OIS Vijaynagar",
+    "OIS Mysore rd",
+    "OIS Rajaji Nagar",
+    "OIS Pragathi, Whitefield",
+    "OIS Schoovi Sahakar Nagar",
+    "OIS Jakkur",
+    "OIS Hennur",
+    "OIS Horamavu",
+    "OIS Kadugodi",
+    "OIS Mysore rd",
+    "OIS Sahakar Nagar",
+    "OIS Yelahanka",
+    "OIS Jalahalli",
+    "OIS Annapoorneshwari Nagar",
+    "Testing School"
+  ],
+  "Zone 1B ": [
+    "OIS Harluru",
+    "OIS JP Nagar", 
+    "OIS Majestic",
+    "OIS Bannerghatta",
+    "OIS Sarjapur",
+    "OIS BTM Layout",
+    "OIS Panathur",
+    "OIS Kanakapura Road"
+  ],
+  "Zone 2": [
+    "OIS Thane",
+    "OIS Seawoods",
+    "OIS Sion",
+    "OIS Dombivali",
+    "OIS Pallagully",
+    "OIS Mulund",
+    "OIS Malad",
+    "OIS Yari Road",
+    "OIS Kurla",
+    "OIS Malad East",
+    "OIS Borivali",
+    "OIS Vashi",
+    "OIS Vikhroli",
+    "OIS KKH Sector 14",
+    "OIS Koparkhairane"
+  ],
+  "Zone 3": [
+    "OIS Wadgaonsheri",
+    "OIS Ambegaon Pune",
+    "OIS SusRoad",
+    "OIS Undri",
+    "OIS Tathawade",
+    "OIS Chinchwad",
+    "OIS Manjri",
+    "OIS Hinjewadi",
+    "OIS Nigdi",
+    "OIS Kharadi",
+    "OIS Swargate",
+    "OIS Ahmednagar"
+  ],
+  "Zone 4": [
+    "OIS Golden Heights",
+    "OIS Golf Course Road",
+    "OIS Rohtak",
+    "OIS DPS Sonipat",
+    "OIS Dwarka 19",
+    "OIS Sector 113", 
+    "OIS NBC Sonipat"
+  ],
+  "Zone 5": [
+    "OIS New Town Kolkatta",
+    "OIS Madhyamgram",
+    "OIS Joka"
+  ],
+  "Zone 6": [
+    "OIS Manapakkam",
+    "OIS Baynes",
+    "OIS Velachery",
+    "OIS Pulianthope",
+    "OIS Thuraipakkam",
+    "OIS Perumbakkam"
+  ],
+  "Zone 7": [
+    "OISUppal",
+    "OISBachupally",
+    "OISBollaram",
+    "OISLangar Houz",
+    "OISKapra",
+    "OISJubilee Hills"
+  ],
+  "Zone 8": [
+    "OIS Hoshangabad Road",
+    "OIS Koradi Road",
+    "OIS Nordic High Aurobindo Branch",
+    "OIS Rajendra Nagar",
+    "OIS Mangalia",
+    "OIS Bhedaghat Road",
+    "OIS Aurangabad"
+  ],
+  "Zone 9": [
+    "OIS Nevta",
+    "OIS Saran Nagar",
+    "CHB"
+  ]
+}
